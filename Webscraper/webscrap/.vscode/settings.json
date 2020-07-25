@@ -1,0 +1,9 @@
+{
+  "python.pythonPath": "/Users/praghya/opt/anaconda3/envs/web",
+  "python.testing.pytestArgs": [
+    "env"
+  ],
+  "python.testing.unittestEnabled": false,
+  "python.testing.nosetestsEnabled": false,
+  "python.testing.pytestEnabled": true
+}
